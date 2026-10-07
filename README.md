@@ -1,2 +1,2 @@
 # euiiii.github.io
-Homepage and privacy policy for Transfer Math Sync
+Homepage and privacy policy for Sync
